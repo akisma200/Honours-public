@@ -1,0 +1,77 @@
+C:\Users\AKISMA200\Documents\uni\Honours\Data\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\AKISMA200\Documents\uni\Honours\Data\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\AKISMA200\Documents\uni\Honours\Data\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\AKISMA200\Documents\uni\Honours\Data\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\uni\Honours\Data\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\uni\Honours\Data\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+C:\Users\AKISMA200\Documents\uni\Honours\Data\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\AKISMA200\Documents\uni\Honours\Data\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\AKISMA200\Documents\uni\Honours\Data\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\AKISMA200\Documents\uni\Honours\Data\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\uni\Honours\Data\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\Code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\AAAAAAAAUni\Honours Project\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\SEAGATE\Honours Project\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\AKISMA200\Documents\SEAGATE\Honours Project\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\AKISMA200\Documents\SEAGATE\Honours Project\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\AKISMA200\Documents\SEAGATE\Honours Project\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\SEAGATE\Honours Project\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\SEAGATE\Honours Project\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+C:\Users\AKISMA200\Documents\SEAGATE\Honours Project\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\AKISMA200\Documents\SEAGATE\Honours Project\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\AKISMA200\Documents\SEAGATE\Honours Project\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\AKISMA200\Documents\SEAGATE\Honours Project\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\SEAGATE\Honours Project\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\Honours Project\honours-project-code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\AKISMA200\Documents\Honours Project\honours-project-code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\AKISMA200\Documents\Honours Project\honours-project-code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\AKISMA200\Documents\Honours Project\honours-project-code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\Honours Project\honours-project-code\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\AKISMA200\Documents\Honours Project\honours-project-code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+C:\Users\AKISMA200\Documents\Honours Project\honours-project-code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\AKISMA200\Documents\Honours Project\honours-project-code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\AKISMA200\Documents\Honours Project\honours-project-code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\AKISMA200\Documents\Honours Project\honours-project-code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\AKISMA200\Documents\Honours Project\honours-project-code\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
